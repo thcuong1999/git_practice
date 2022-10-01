@@ -1,0 +1,1 @@
+function f_master() {}
