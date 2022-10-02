@@ -1,1 +1,1 @@
-function f_test2() {console.log()}
+function f_test2() {console.log("Hello f_test2")}
