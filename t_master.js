@@ -1,1 +1,1 @@
-function f_master() {console.log("Wello world")}
+function f_master() {console.log("Yello world")}
