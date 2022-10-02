@@ -1,3 +1,3 @@
 function f_master() {
-  console.log("Zeze world");
+  console.log("Zezee world");
 }
